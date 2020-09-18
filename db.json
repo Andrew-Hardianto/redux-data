@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Andrew",
+            "alamat": "Narogong",
+            "nohp": "085778799301"
+        },
+        {
+            "id": 2,
+            "nama": "Budi",
+            "alamat": "Narogong",
+            "nohp": "085778799301"
+        },
+        {
+            "id": 3,
+            "nama": "Bool",
+            "alamat": "Narogong",
+            "nohp": "085778799301"
+        },
+        {
+            "id": 4,
+            "nama": "Yoi",
+            "alamat": "Narogong",
+            "nohp": "085778799301"
+        },
+        {
+            "id": 5,
+            "nama": "Will",
+            "alamat": "Narogong",
+            "nohp": "085778799301"
+        }
+    ]
+}
